@@ -25,6 +25,11 @@ Use:
 
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/OneSignal-informational?style=flat&logo=onesignal&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/Codepush-informational?style=flat&logo=codepush&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/Azure_DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=FF6C37)
 
 
 📫 How to reach me:
