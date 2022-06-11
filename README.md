@@ -1,7 +1,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=furkansahinfs&line_height=28&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
 
  ---
- ## Hello! I am Furkan 👋 I am currently working as a mobile application developer.
+ ## Hello! I am Furkan 👋
 
 <!--
 ```javascript
