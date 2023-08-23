@@ -1,22 +1,7 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkansahinfs&line_height=28&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahinfs&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ---
  ## Hello! I am Furkan 👋
-
-<!--
-```javascript
-const dan = {
-  pronouns: 'he' | 'him',
-  code: ['C#', 'Typescript', 'Javascript', 'HTML', 'CSS', 'C++', 'C'],
-  frameworks: ['.net', '.net core', 'NodeJS'],
-  platforms: ['Azure', 'AWS'],
-  databases: ['SQL Server', 'mySQL'],
-  devOps: ['Docker', 'Serverless'],
-  tools: ['Jest', 'Cypress', 'Swagger'],
-}
-```-->
 
 :man_technologist: Code and Technologies: 
 
@@ -41,4 +26,3 @@ Tools:
 📫 How to reach me:
 
 [![](https://img.shields.io/badge/-Furkan%20Şahin-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)](http://www.linkedin.com/in/furkansahinfs) 
-[![](https://img.shields.io/badge/-sahinfurkan.wordpress.com-informational?style=flat&logo=firefox-browser&logoColor=white&color=062020)](https://sahinfurkan.wordpress.com/) [![](https://img.shields.io/badge/-furkansahin.dev-informational?style=flat&logo=firefox-browser&logoColor=white&color=062020)](https://furkansahin.dev)
