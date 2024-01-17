@@ -1,8 +1,11 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahinfs&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ---
  ## Hello! I am Furkan 👋
 
+ ---
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansahinfs&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
 :man_technologist: Code and Technologies:
 
 ![](https://camo.githubusercontent.com/bdab7f5eeb3238d822da47bd2109061145799595198d9b6894a017b15298db6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176612d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d776869746526636f6c6f723d314636464542) 
